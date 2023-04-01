@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Binder","General Information"]],"trait":[["Bindable","General Information"],["Drawable","General Information"]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["EulerSolver",""]],"trait":[["FunctionArguments","Euler’s method for ordinary differential equations. The form of the equation is assumed to be “y’(n) = f(t,y,y’,..,y’(n-1))”."]]};

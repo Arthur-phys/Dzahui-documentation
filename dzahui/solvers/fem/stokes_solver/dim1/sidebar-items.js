@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["StokesParams1D","General Information"],["StokesSolver1D","General Information"]]};

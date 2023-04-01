@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["binder","Common functions in drawable (2D or 3D objects)"],["text",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["euler",""],["fem",""],["matrix_solver",""],["quadrature",""],["solver_trait",""]]};

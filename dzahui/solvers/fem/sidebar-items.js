@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Solver","General Information"]],"mod":[["basis",""],["diffusion_solver",""],["stokes_solver",""],["utils",""]],"struct":[["NoSolver",""]]};

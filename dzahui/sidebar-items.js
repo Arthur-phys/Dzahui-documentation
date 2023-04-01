@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Error","General Information"]],"mod":[["error",""],["logger",""],["mesh",""],["simulation",""],["solvers",""],["writer",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["time_dependent",""],["time_independent",""]],"struct":[["DiffussionParams","Struct to initialize builders params for either time-dependent or time-independent diffussion solvers."],["DiffussionParamsTimeDependentBuilder","General Information"],["DiffussionParamsTimeIndependentBuilder","General Information"]]};

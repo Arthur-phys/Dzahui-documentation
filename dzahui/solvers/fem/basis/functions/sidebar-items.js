@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["Composable1D","General Information"],["Composable2D","General Information"],["Differentiable1D","General Information"],["Differentiable2D","General Information"],["Function1D","General Information"],["Function2D","General Information"],["Function2D2D","General Information"]]};

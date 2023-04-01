@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"dzahui":[["impl <a class=\"trait\" href=\"https://docs.rs/log/0.4.17/log/trait.Log.html\" title=\"trait log::Log\">Log</a> for <a class=\"struct\" href=\"dzahui/logger/struct.DzahuiLogger.html\" title=\"struct dzahui::logger::DzahuiLogger\">DzahuiLogger</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["FirstDegreePolynomial2D","General Information"],["SecondDegreePolynomial2D","General Information"],["Transformation2D","General Information"]]};

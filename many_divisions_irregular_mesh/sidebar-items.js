@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["main","Simple time independent diffussion example with an irregular mesh with many divisions."]]};

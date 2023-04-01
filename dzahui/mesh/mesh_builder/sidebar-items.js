@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["MeshDimension","General Information"]],"fn":[["merge",""],["merge_sort",""]],"struct":[["MeshBuilder","General Information"]]};

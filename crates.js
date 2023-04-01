@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["diffusion_time_dependent","diffusion_time_independent","dzahui","irregular_mesh","irregular_mesh_small","irregular_mesh_time_dependent","main","many_divisions_irregular_mesh","many_divisions_irregular_time_dependent","many_divisions_mesh","many_divisions_time_dependent","mesh_3d","static_pressure"];

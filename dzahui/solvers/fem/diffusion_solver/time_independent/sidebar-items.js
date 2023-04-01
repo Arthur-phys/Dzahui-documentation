@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["DiffussionParamsTimeIndependent","General Information"],["DiffussionSolverTimeIndependent","General Information"]]};

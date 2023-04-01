@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["FirstDegreePolynomial","General Information"],["SecondDegreePolynomial","General Information"]]};

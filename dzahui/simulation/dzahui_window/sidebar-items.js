@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["DzahuiWindow","General Information"],["DzahuiWindowBuilder","General Information"]]};
